@@ -20,7 +20,7 @@ Ways to improve the model
 Get rid of more noise by using different cleaning functions on the data.
 Try slightly different scales of the images (not just 250x250px).
 Utilize Keras/Tensorflow (great for deep learning), try different keras models: VGG16, VGG19, ResNet50, InceptionV3, DenseNet, etc.
-Change the hyperparameters of the different models to yield better results
+Change the hyperparameters of the different models to yield better results. Can also utilize the lambda machine and/or cloud services to train on larger dataset.
 
 Other Models Tried:
 * K-nearest Neighbors with elbow method to find the optimal K value - BEST SO FAR
