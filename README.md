@@ -1,5 +1,5 @@
 # FAU-Ditylum-Identification
-Using TensorFlow to build a model that autonomously identifies and counts the marine diatom called ditylum from images taken from divers at FAU.
+Using TensorFlow to build a model that autonomously identifies and counts the marine diatom called ditylum from holographic images.
 
 ## STEP 1 - Clean Images
 For this step we use the function "dilate" to brighten the highs and lows of the image to reduce some of the noise.
